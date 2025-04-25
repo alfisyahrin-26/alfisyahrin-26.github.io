@@ -1,1 +1,6 @@
-url:"https://alfisyahrin-26.github.io"
+url: "https://alfisyahrin-26.github.io"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
