@@ -26,5 +26,5 @@ Ruby adalah bahasa **Object-Oriented** yang memungkinkan pengembang untuk mengel
 - **Menggunakan Liquid Templates**: Jekyll menggunakan Liquid sebagai sistem templating, yang memungkinkan pembuatan template dinamis dalam situs statis.
 - **Integrasi dengan GitHub Pages**: Jekyll dapat langsung diintegrasikan dengan GitHub Pages, yang memungkinkan penggunanya untuk meng-host situs secara gratis.
 
-<img src="/assets/images/ruby2.jpg/" style="width: 300px; height: auto;">
-<img src="/assets/images/jekyll.jpg/" style="width: 400px; height: auto;">
+<img src="/assets/images/ruby2.jpg" style="width: 300px; height: auto;">
+<img src="/assets/images/jekyll.jpg" style="width: 400px; height: auto;">

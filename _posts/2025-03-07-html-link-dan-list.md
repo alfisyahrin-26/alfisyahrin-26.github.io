@@ -41,5 +41,5 @@ Tautan ini memungkinkan pengguna berpindah ke:
 - Alamat email
 - Bagian tertentu dalam halaman yang sama
 
-<img src="/assets/images/html.jpg/" style="width: 300px; height: auto;">
-<img src="/assets/images/list.jpg/" style="width: 350px; height: auto;">
+<img src="/assets/images/html.jpg" style="width: 300px; height: auto;">
+<img src="/assets/images/list.jpg" style="width: 350px; height: auto;">

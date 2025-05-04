@@ -23,4 +23,4 @@ Perbedaan utama antara SASS dan SCSS terletak pada sintaks penulisannya. SASS me
 - **Inheritance (@extend)**: Mewarisi style dari selector lain untuk mengurangi duplikasi.
 - **Operasi**: Mendukung operasi matematika langsung (misal pembagian, penjumlahan).
 
-<img src="/assets/images/gambar10.png/" style="width: 350px; height: auto;">
+<img src="/assets/images/gambar10.png" style="width: 350px; height: auto;">

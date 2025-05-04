@@ -14,4 +14,4 @@ JavaScript adalah bahasa pemrograman yang digunakan untuk membuat halaman web in
 - **AJAX (Asynchronous JavaScript and XML)**: Mengirim dan menerima data dari server tanpa perlu me-refresh halaman.
 - **Pembuatan Aplikasi Web**: JavaScript digunakan dalam pembuatan aplikasi web modern seperti single-page apps (SPA) dengan framework seperti React, Angular, dan Vue.
 
-<img src="/assets/images/js.png/" style="width: 300px; height: auto;">
+<img src="/assets/images/js.png" style="width: 300px; height: auto;">
